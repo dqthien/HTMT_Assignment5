@@ -1,0 +1,9 @@
+# Executables	
+*.exe
+*.out
+*.app
+
+.vs
+Debug
+x64
+.vscode
